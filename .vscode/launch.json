@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BookCrudApplication<book-crud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sprk.book_crud.BookCrudApplication",
+            "projectName": "book-crud",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
